@@ -1,0 +1,5 @@
+.v/
+__pycache__/
+*.egg-info/
+c.json
+t.json
